@@ -1,0 +1,22 @@
+# Generated Unreal Engine and IDE files
+.vs/
+.idea/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.slnx
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# This public repository is a source showcase; local assets are excluded.
+Content/
+*.uasset
+*.umap
+
+# Recordings are distributed through GitHub Releases.
+*.mp4
+*.mov
